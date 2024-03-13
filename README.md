@@ -1,3 +1,3 @@
 # suvash-repo
 This repo belongs to Mr.SuvashSharma
-**Author: Suvash Sharma**
+**Author: Suvash Sharma Subedi**
